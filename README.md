@@ -1,7 +1,7 @@
 # Store-Sales-Analysis-using-Excel
 
 ## Objective :
-Store wants to create annual sales report for year 2022, so that they can understand thier potential customer segment.
+Store wants to create annual sales report for year 2022, so that they can understand thier potential customer segment and techniques to enhance sales in 2023.
 
 ## Sample questions : 
 1. Highest selling category
